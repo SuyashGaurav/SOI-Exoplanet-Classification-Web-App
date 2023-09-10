@@ -43,7 +43,7 @@
    streamlit run siemen_upload.py
    ```
 
-## Contribution
+## Contributors
 -Suyash Gaurav
 -Aduma Rishith Reddy
 
